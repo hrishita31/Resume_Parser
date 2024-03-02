@@ -33,4 +33,4 @@ Now, we take the tokens and using the pre-trained Word2Vec model, we calculate t
 
 As we had already added the job titles and their respective codes from O-NET, now we map our extracted job titles to the codes from O-NET. The mapping is done if there is a cosine similarity of greater than or equal to 0.5. 
 
-Our Resume parser has successfully been created!
+Our Resume revealer has successfully been created!
