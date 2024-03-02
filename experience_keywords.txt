@@ -1,0 +1,140 @@
+Resume: documents20220826-1-v01cla.pdf
+SQL
+R
+RDS
+MySQL
+Power BI
+SSIS
+Forecasting
+Leadership
+Functional
+Business
+--------------------
+Resume: Om Prakash Karmacharya1.docx
+Python
+SQL
+R
+Pandas
+Hadoop
+HDFS
+AWS
+EMR
+Hortonworks
+Oracle
+Detection
+Clustering
+Predictive Modeling
+NumPy
+SciPy
+Matplotlib
+Seaborn
+NLTK
+Libraries
+Developing
+Databases
+Cassandra
+--------------------
+Resume: documents20220826-1-v01cla.pdf
+SQL
+R
+RDS
+MySQL
+Power BI
+SSIS
+Forecasting
+Leadership
+Functional
+Business
+--------------------
+Resume: Om Prakash Karmacharya1.docx
+Python
+SQL
+R
+Pandas
+Hadoop
+HDFS
+AWS
+EMR
+Hortonworks
+Oracle
+Detection
+Clustering
+Predictive Modeling
+NumPy
+SciPy
+Matplotlib
+Seaborn
+NLTK
+Libraries
+Developing
+Databases
+Cassandra
+--------------------
+Resume: documents20220826-1-v01cla.pdf
+SQL
+R
+RDS
+MySQL
+Power BI
+SSIS
+Forecasting
+Leadership
+Functional
+Business
+--------------------
+Resume: documents20220826-1-v01cla.pdf
+SQL
+R
+RDS
+MySQL
+Power BI
+SSIS
+Forecasting
+Leadership
+Functional
+Business
+--------------------
+Resume: Charles Obuseh.pdf
+Python
+SQL
+R
+ETL
+Amazon Kinesis
+Firehose
+Databricks
+AWS
+EMR
+Lambda
+Apache Airflow
+AWS EC2
+Cloudera infrastructure
+Ambari
+Hortonworks
+Sandbox
+Zeppelin Notebook
+Oracle
+Snowflake
+Pyspark
+--------------------
+Resume: Charles Obuseh.pdf
+Python
+SQL
+R
+ETL
+Amazon Kinesis
+Firehose
+Databricks
+AWS
+EMR
+Lambda
+Apache Airflow
+AWS EC2
+Cloudera infrastructure
+Ambari
+Hortonworks
+Sandbox
+Zeppelin Notebook
+Oracle
+Snowflake
+Pyspark
+--------------------

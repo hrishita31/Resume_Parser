@@ -1,0 +1,206 @@
+Resume: documents20220826-1-v01cla.pdf
+Python
+SQL
+PL/SQL
+R
+Hadoop
+AWS
+EMR
+MySQL
+MongoDB
+DynamoDB
+PostgreSQL
+Azure
+Redshift
+Power BI
+MS Access
+Postgres
+Databases
+PostGreSQL
+SSMS
+Sage
+IoT
+Virtual Machines
+GCP
+BigTable
+DataLab
+--------------------
+Resume: documents20220826-1-v01cla.pdf
+Python
+SQL
+PL/SQL
+R
+Hadoop
+AWS
+EMR
+MySQL
+MongoDB
+DynamoDB
+PostgreSQL
+Azure
+Redshift
+Power BI
+MS Access
+Postgres
+Databases
+PostGreSQL
+SSMS
+Sage
+IoT
+Virtual Machines
+GCP
+BigTable
+DataLab
+--------------------
+Resume: documents20220826-1-v01cla.pdf
+Python
+SQL
+PL/SQL
+R
+Hadoop
+AWS
+EMR
+MySQL
+MongoDB
+DynamoDB
+PostgreSQL
+Azure
+Redshift
+Power BI
+MS Access
+Postgres
+Databases
+PostGreSQL
+SSMS
+Sage
+IoT
+Virtual Machines
+GCP
+BigTable
+DataLab
+--------------------
+Resume: documents20220826-1-v01cla.pdf
+Python
+SQL
+PL/SQL
+R
+Hadoop
+AWS
+EMR
+MySQL
+MongoDB
+DynamoDB
+PostgreSQL
+Azure
+Redshift
+Power BI
+MS Access
+Postgres
+Databases
+PostGreSQL
+SSMS
+Sage
+IoT
+Virtual Machines
+GCP
+BigTable
+DataLab
+--------------------
+Resume: Charles Obuseh.pdf
+Python
+SQL
+Bash
+R
+Git
+Pandas
+Tableau BI
+ETL
+Apache Spark
+Hadoop
+HDFS
+Snowflake Data Factory
+SnowSQL
+Snowpipe
+Amazon Kinesis
+Firehose
+Databricks
+AWS
+EMR
+Athena
+Lambda
+Amazon MW
+Apache Airflow
+AWS EC2
+QuickSight
+SNS
+Cloudera infrastructure
+Ambari
+Hortonworks
+Sandbox
+Zeppelin Notebook
+RDS
+MySQL
+MongoDB
+DynamoDB
+SQLAlchemy
+PostgreSQL
+S3 Buckets
+SQLite
+Azure
+Oracle
+Snowflake
+Pyspark
+GIT
+Postgres
+Databases
+PostGreSQL
+--------------------
+Resume: Charles Obuseh.pdf
+Python
+SQL
+Bash
+R
+Git
+Pandas
+Tableau BI
+ETL
+Apache Spark
+Hadoop
+HDFS
+Snowflake Data Factory
+SnowSQL
+Snowpipe
+Amazon Kinesis
+Firehose
+Databricks
+AWS
+EMR
+Athena
+Lambda
+Amazon MW
+Apache Airflow
+AWS EC2
+QuickSight
+SNS
+Cloudera infrastructure
+Ambari
+Hortonworks
+Sandbox
+Zeppelin Notebook
+RDS
+MySQL
+MongoDB
+DynamoDB
+SQLAlchemy
+PostgreSQL
+S3 Buckets
+SQLite
+Azure
+Oracle
+Snowflake
+Pyspark
+GIT
+Postgres
+Databases
+PostGreSQL
+--------------------
